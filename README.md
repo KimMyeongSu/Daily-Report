@@ -92,4 +92,7 @@ JS 모듈 정리
 7/29 Codieit 남은강의 / Code 정리 7/31일 이전까지 다 Commit 
 
 ### 2021-07-31
-7/31 Code 정리 
+7/31 Code 정리
+
+### 2021-08-01
+8/1 Codieit 강의 정리 / REAEME File 
